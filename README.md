@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mcoop894
-- 👀 I’m interested in learning how to code to not get complacent at my job and to open doors for better job opportunities.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on little things to help me learn and gain some experience
+- 👋 Hello
+- 👀 I’m interested in learning how to code because of sheer boredom at my job.
+- 🌱 I’m currently going through CS50 and afterwards will either go do the CS50P or a different Python course.
+- 💞️ I’m looking to learn from other people to help me gain experience
 - 📫 You can reach me here
 
 <!---
