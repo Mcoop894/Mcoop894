@@ -1,5 +1,5 @@
 name = input("What is your name? ")
 print('Hello ' + name)
 age = input('How old are you? ')
-print("God dayum, you old!")
+print("God dayum, " + name + " you old!")
 input('Press ENTER to exit')
